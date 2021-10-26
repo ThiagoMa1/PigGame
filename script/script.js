@@ -1,5 +1,4 @@
 'use strict';
-// começa com o jogador da <, o jogador roda o dado e o valor do dado acumula no current até cair 1 e resetar e passar a vez, o jogador pode guardar seus pontos clicando em hold e passando a vez
 
 // Selecting elements
 const player0El = document.querySelector('.player--0');
@@ -79,8 +78,8 @@ btnHold.addEventListener('click', function () {
             scores[activePlayer];
 
         // 2. Check if player's score is > = 100
-        playing = false;
-        if (scores[activePlayer] >= 20) {
+        if (scores[activePlayer] >= 100) {
+            playing = false;
             // Finish the game
             diceEl.classList.add('hidden');
             document
