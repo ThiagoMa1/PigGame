@@ -17,10 +17,10 @@ Projeto com botões hold, roll e new game e mudança de jogadores.</p><hr>
 
 <br>
 <div align = "center">
-<img alt="animacao" title="animacao" src="./github/animacao.gif" width="400px"><hr>
-<img alt="Player Wins Img" title="pigWinsImg" src="./github/playerWins.png" width="400px" /><hr>
+<img alt="animacao" title="animacao" src="./github/animacao.gif" width="700px"><hr>
+<img alt="Player Wins Img" title="pigWinsImg" src="./github/playerWins.png" width="700px" /><hr>
 
-<img alt="Pig Game Img" title="pigGameImg" src="./github/pigGame.png" width="400px" /><hr>
+<img alt="Pig Game Img" title="pigGameImg" src="./github/pigGame.png" width="700px" /><hr>
 
 </div>
 
